@@ -11,7 +11,7 @@ To analyze the relationship between study hours and student performance and buil
 ## 🛠 Tools & Technologies
 - R Programming
 - Linear Regression
-- Data Visualization
+- Data Visualization 
 - Statistical Analysis
 
 ## 📊 Dataset
